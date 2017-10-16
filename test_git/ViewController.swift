@@ -12,6 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        print("yo c'est moi la ligne 15 espece de fraulein!!!")
         // Do any additional setup after loading the view, typically from a nib.
         print("ViewController:vieweDidLoad")
     }
